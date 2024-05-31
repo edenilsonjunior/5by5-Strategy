@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{601C1A77-B0BE-4335-ABA8-73FCDF92F143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemStrategy", "SemStrategy\SemStrategy.csproj", "{1702DB6F-4609-412C-8E82-CD2193638670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601C1A77-B0BE-4335-ABA8-73FCDF92F143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601C1A77-B0BE-4335-ABA8-73FCDF92F143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601C1A77-B0BE-4335-ABA8-73FCDF92F143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601C1A77-B0BE-4335-ABA8-73FCDF92F143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1702DB6F-4609-412C-8E82-CD2193638670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1702DB6F-4609-412C-8E82-CD2193638670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1702DB6F-4609-412C-8E82-CD2193638670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1702DB6F-4609-412C-8E82-CD2193638670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E540A672-5601-4521-A9F3-6A8AEC2331A8}
+	EndGlobalSection
+EndGlobal
